@@ -2,8 +2,8 @@
 Python 3 NES Emulator BY PyAndy. Port by Frankie Astori
 
 # Useful Links
-- [Py3NES Repo] (https://github.com/PyAndy/Py3NES)
-- [PyAndy] (https://github.com/PyAndy)
+- [Py3NES Repo](https://github.com/PyAndy/Py3NES)
+- [PyAndy](https://github.com/PyAndy)
 
 ---------------------------------------------------------
 
@@ -13,8 +13,8 @@ Python 3 NES Emulator BY PyAndy. Port by Frankie Astori
 
 -----------------------------------------------------------
 
-- [NX-Python Page] (https://github.com/nx-python)
-- [PyNX Repo] (https://github.com/nx-python/PyNX)
+- [NX-Python Page](https://github.com/nx-python)
+- [PyNX Repo](https://github.com/nx-python/PyNX)
 
 # Stream - pyAndy
 All code produced for this repo is streamed on [Twitch](https://www.twitch.tv/pyandy)
