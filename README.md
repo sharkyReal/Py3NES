@@ -23,4 +23,5 @@ All code produced for this repo is streamed on [Twitch](https://www.twitch.tv/py
 Recordings of all streams are available on [YouTube](https://www.youtube.com/channel/UCT0oEArSloMLL_URLyy2HfA)
 
 # Rom Menu
-The ROM Menu for the nintendo switch is HEAVILY based off of the PyNX File Manger.
+The ROM Menu for the nintendo switch is HEAVILY based off of the PyNX File Manger. 
+- [PyNX Repo](https://github.com/nx-python/PyNX)
